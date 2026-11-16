@@ -1,0 +1,55 @@
+Executable on a computer's hardware, consists of physical components that make up a computer
+- A CPU (central processing unit), which actually executes the instructions
+- Memory, where computer programs are loaded prior to execution
+- Interactive Devices
+- Storage Devices (hard drive, SSD card) which retain information even when the computer is turned off
+
+
+Computers interact with more than just hardware, they also interact with other software on the system 
+The term PLATFORM refers to a compatible set of hardwate and software (OS, browser, etc.) that provides an environment to run. 
+PORTABLE: program that can be easily transferred from one platform to another 
+PORTING: The act of modifying a program so that it runs on a different platform
+
+
+
+A comouter's CPU is incapable of understanding C++, CPU is only capable of processing instructions written in machine language (or machine code)
+INSTURCTION SET: set of all possible machine language instructions that a given CPU can understand 
+Each instruction is written in binary code 
+	- each individual 0 or 1 is called a binary digit, or bit for short 
+	- the number of bits in a machine language instuction varies
+	- each family of compatible CPUs has its own language and this machine language is not compatible with the machine language of other CPUS 
+
+ASSEMBLY LANGUAGES: 
+
+Or assembly for short 
+
+is a programming language that functions as a more human readable machine language. CPU's do't understand human readable, assembly programs must be translated into machine language before they can be executed. This translation is done by a program called ASSEMBLR 
+
+Machine languages and assmebly languages are low level languages (minimal abstraction from the architecture of the machine) 
+
+Downsides of low level languages:
+	- not portable 
+	- requires detailed knowledge of of the architecture itself 
+	- hard to understand 
+	- hard to write assembly programs of significant complexity becayse the language only has primitive capabilities 
+
+
+High level languages: 
+Must be translated into machine language before they can be run 
+Done in two primary ways: Compiling and Interpreting 
+
+COMPILING: 
+
+	- C++ programs are usually compiled 
+	- A copmiler is a progra that reads the source code of one language and translates it into a low level language 
+	- Machine code output can be packaged into exectuable files that can be distributed to others and launched by the operatin system 
+
+INTERPRETER: 
+	- program that directly executes the instructions in the osurce code without requireing them to be compiled first
+	- more flexible than compilers, less effiicient 
+
+
+
+Cross platform: Program that can be run on many different platforms (that has a C++ compiler)
+
+
