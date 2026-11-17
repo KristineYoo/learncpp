@@ -1,0 +1,17 @@
+Statements: sequence of instructions that tell the computer what to do 
+Smallest independent unit of computation in the C++ language
+
+#inlcude --> preprocessor directive that indicates we would like to use contents of iostream library 
+
+we need iostream for std::cout 
+
+std::cout stands for character output 
+
+the << operator allows us to display information on the console 
+
+
+comment == //
+
+multiline comment is denoted with /* and */
+
+ 
