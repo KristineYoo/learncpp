@@ -1,0 +1,9 @@
+Build Configuration (AKA build target): collection of project settings that determines how your ide will run 
+Debug Configuration: designed to help you debug your problems 
+Release Configurations: designed to be used when releasing your program to the public, optimized for size and performace
+
+
+Add -ggdb to the command line for debug builds and -02 -DNDBUG release builds 
+
+
+-0# is the option to control optimization settings 
