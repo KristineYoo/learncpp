@@ -1,0 +1,11 @@
+Developed by Dennis Ritchie in 1972 @ Bell Telephone Laboratories
+Systems programming language (to write operating systems)
+in 1973, Ritchie and Ken Thompson rewrite most of the unix operating system using C
+
+
+C++ was developed by Bjarne Stroustrup at Bell Labs as an extension to C, basically a superset of C
+
+
+C and C++'s Philosophy 
+
+	- C++ is designed to allow a high degree of freedom 
