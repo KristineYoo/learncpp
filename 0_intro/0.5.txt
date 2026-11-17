@@ -1,0 +1,29 @@
+Compiler, Linker, and Libraries 
+
+
+Compiling your source code: 
+
+	- The C++ compiler sequentially goes through each source file and 
+
+	1) The compiler checks your code follows the rules of the C++ language 
+	2) translates your code into machine language, stored in a file called the object file  (.o files)
+
+
+
+Linking object files and libraries creating the desired output 
+
+	- The linker kicks in after the compler has finished 
+	- The linker combines all object files and produce the deired output file 
+
+	- first the linked reads in each of the object files and makes sure they are valid 
+	- second, the linker ensures all cross file dependancies are resolved 
+	- third, linker linkes in one or more library files 
+	- fourth, linker outpys the desired output file 
+
+
+
+The standard Library 
+
+	- the C++ standard library is a provided set of useful capabilties 
+
+
